@@ -1,4 +1,4 @@
-FROM node:16-bookworm AS base
+FROM node:20-bookworm AS base
 
 FROM base AS builder
 
